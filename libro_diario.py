@@ -20,3 +20,4 @@ class LibroDiario:
       else:
         egresos+=t["monto"]
      return "Total ingresos: " + str(ingresos) + " Total egresos: " + str(egresos)
+.
